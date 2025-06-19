@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">🎓 **Engineering Science @ University of Toronto**  </h3>
+<h3 align="center">🎓 Engineering Science @ University of Toronto </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kevinpeng123&label=Profile%20views&color=blue&style=flat" alt="kevinpeng123" />
