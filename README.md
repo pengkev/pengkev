@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">"Every robot starts as an idea. I like building the ones that don’t stop there."</h3>
+<h3 align="center">🎓 **Engineering Science @ University of Toronto**  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kevinpeng123&label=Profile%20views&color=blue&style=flat" alt="kevinpeng123" />
@@ -7,19 +7,7 @@
 
 ---
 
-🎓 **Engineering Science @ University of Toronto**  
-🤖 **Robotics | AI | Systems Engineering**  
-💡 I enjoy building things that bridge code and the physical world—whether that’s a robot that makes you coffee, a smart car navigating a maze, or a Flask-based app reducing food waste. I'm especially interested in applied research, automation, and problem-solving at the system level.
 
----
-
-### 🧠 Currently:
-- 🚧 Building a **coffee-making robot** with Raspberry Pi + Arduino  
-- 🏆 Hackathon-winning dev behind **Replate**: an AI-powered food sustainability app  
-- 📈 Simulating NBA player rankings using OpenSkill + real data  
-- 🌐 Volunteering with the **F!rosh Tech Team** to build the UofT engineering orientation website
-
----
 
 ### 🔧 Languages & Tools
 
@@ -45,17 +33,6 @@
 
 ---
 
-### 📂 Pinned Projects (Selected Work)
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧃 **Replate** | AI-driven food sustainability platform using Gemini + Cohere | Flask, TypeScript, Node.js |
-| 🧭 **Maze Car** | Arduino-based autonomous car navigating mazes and dropping flags | Arduino, Echo Sensor, Servo |
-| ☕ **CoffeeBot (WIP)** | Raspberry Pi-based robotic barista with heating, dispensing, and whisking systems | C, Python, Arduino |
-| 🏀 **NBA Skill Simulator** | Ranking NBA players using OpenSkill and Kaggle data | Python, pandas, simulation |
-
----
-
 ### 🌱 Interests
 
 - Robotics, controls, embedded systems
@@ -74,10 +51,3 @@
 
 ---
 
-### 🧮 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinpeng123&show_icons=true&theme=tokyonight" alt="Kevin's GitHub stats"/>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=kevinpeng123&theme=tokyonight" alt="Kevin's GitHub streak"/>
-</p>
