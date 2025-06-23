@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<p align="center">I’m an Engineering Science student at the University of Toronto passionate about building intelligent systems that connect code to the physical world. Whether it’s robotics, AI platforms, or embedded simulations, I enjoy solving real-world problems through systems thinking, rapid prototyping, and design optimization. Outside of engineering, I compete in top-tier strategy games, sharpening the same skills I bring to engineering: pattern recognition, adaptability, and continuous iteration.</p>
+<p align="center">I’m an Engineering Science student at the University of Toronto passionate about building intelligent systems that connect code to the physical world. Whether it’s robotics, AI platforms, or embedded simulations, I enjoy solving real-world problems through systems thinking, rapid prototyping, and design optimization. </p>
 
 ---
 ### 🔧 Languages & Tools
