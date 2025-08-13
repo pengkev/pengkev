@@ -14,7 +14,7 @@
 ✨ Creating bugs since 2016<br>
 📚 I'm interested in creative engineering builds that push technical limits<br>
 🎯 Goals: To keep building projects that combine creative thinking with technical execution<br>
-🎲 Fun fact: I’ve hit top ranks in multiple games, from Clash Royale to Teamfight Tactics to MTG Arena.
+🎲 Fun fact: I’m drawn to roles and challenges that reward deep analysis and precision execution
 </p>
 
 ###
