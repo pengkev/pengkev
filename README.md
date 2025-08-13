@@ -12,9 +12,9 @@
 
 <p align="left">
 ✨ Creating bugs since 2016<br>
-📚 I'm currently interested in robotics and computing<br>
-🎯 Goals: build something that makes people say “that's pretty cool”<br>
-🎲 Fun fact: I once built a solar-powered robotic death ray using a Fresnel lens and an Arduino
+📚 I'm interested in creative engineering builds that push technical limits<br>
+🎯 Goals: To keep building projects that combine creative thinking with technical execution<br>
+🎲 Fun fact: I’ve hit top ranks in multiple games, from Clash Royale to Teamfight Tactics to MTG Arena.
 </p>
 
 ###
