@@ -11,11 +11,12 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2016<br>
-📚 I'm interested in creative engineering builds that push technical limits<br>
-🎯 Goals: To keep building projects that combine creative thinking with technical execution<br>
-🎲 Fun fact: I’m drawn to roles and challenges that reward deep analysis and precision execution
+💻 Engineering solutions that probably worked on the second try<br>
+📚 Building projects that mix AI, hardware, and a bit of chaos<br>
+🎯 Goal: Push technical limits and learn something new every time<br>
+🎲 Fun fact: Former top-ranked competitive gamer who still plays to win
 </p>
+
 
 ###
 
