@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2006<br>
-📚 I'm currently learning algorithmic trading, embedded systems, and full-stack app deployment<br>
-🎯 Goals: build something that makes people say “wait... that’s possible?”<br>
+✨ Creating bugs since 2016<br>
+📚 I'm currently interested in robotics and computing<br>
+🎯 Goals: build something that makes people say “that's pretty cool”<br>
 🎲 Fun fact: I once built a solar-powered robotic death ray using a Fresnel lens and an Arduino
 </p>
 
