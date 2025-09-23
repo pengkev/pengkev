@@ -12,9 +12,8 @@
 
 <p align="left">
 💻 Engineering solutions that probably worked on the second try<br>
-📚 Building projects that mix AI, hardware, and a bit of chaos<br>
+📚 Building creative projects that mix AI, hardware, and a bit of a twist<br>
 🎯 Goal: Push technical limits and learn something new every time<br>
-🎲 Fun fact: Former top-ranked competitive gamer who still plays to win
 </p>
 
 
