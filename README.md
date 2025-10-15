@@ -6,19 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-💻 Engineering solutions that probably worked on the second try<br>
-📚 Building creative projects that mix AI, hardware, and a bit of a twist<br>
-🎯 Goal: Push technical limits and learn something new every time<br>
-</p>
-
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
