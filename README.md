@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an Engineering Science (EngSci) student at the University of Toronto.</p>
+<p align="left">I'm an Engineering Science (EngSci) student at the University of Toronto, focusing on Electrical and Computer Engineering.</p>
 
 ###
 
